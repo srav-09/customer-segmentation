@@ -20,7 +20,7 @@ The project uses the K-Means clustering algorithm and provides an interactive in
 
 File                         Description               
 
- `app.py`                     Streamlit application     
+ `app1.py`                     Streamlit application     
  `kmeans_model.pkl`           Trained K-Means model     
  `scaler.pkl`                 Fitted feature scaler     
  `customer_segmentation.csv`  Customer dataset          
